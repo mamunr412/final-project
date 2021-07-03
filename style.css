@@ -1,0 +1,12 @@
+*{
+    padding: 0%;
+    margin: o;
+}
+p{
+    text-align: justify;
+    color: aqua;
+    font-size: 30px;
+    background-color: rebeccapurple;
+    border: 20px solid black;
+    border-radius: 200px;
+}
